@@ -7,7 +7,7 @@ This fork of [electron-quick-start](https://github.com/electron/electron-quick-s
 ```bash
 # In Windows 10
 # Clone this repository
-git clone https://github.com/ben-yocum/electron-28828-repro
+git clone https://github.com/ben-yocum/electron-28828-repro.git
 # Go into the repository
 cd electron-quick-start
 # Install dependencies
