@@ -1,18 +1,16 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-28828-repro",
   "version": "1.0.0",
   "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/ben-yocum/electron-28828-repro",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "28828",
+    "bug"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",

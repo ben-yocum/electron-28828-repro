@@ -9,7 +9,7 @@ This fork of [electron-quick-start](https://github.com/electron/electron-quick-s
 # Clone this repository
 git clone https://github.com/ben-yocum/electron-28828-repro.git
 # Go into the repository
-cd electron-quick-start
+cd electron-28828-repro
 # Install dependencies
 npm install
 # Run the app
